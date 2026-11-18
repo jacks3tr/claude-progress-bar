@@ -1,0 +1,6 @@
+{
+  "name": "progress-eta",
+  "version": "0.1.0",
+  "description": "A progress bar with an ETA countdown above the prompt that the orchestrating agent sets and updates, with a gentle reminder when it goes stale.",
+  "types": "./types/index.d.ts"
+}

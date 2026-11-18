@@ -1,0 +1,5 @@
+{
+  "name": "claude-progress-bar",
+  "owner": { "name": "jacks3tr" },
+  "plugins": [{ "name": "progress-eta", "source": "./" }]
+}
